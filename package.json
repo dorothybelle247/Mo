@@ -1,0 +1,11 @@
+{
+  "name": "MO",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dorothybelle247/Mo.git",
+  "author": "dorothybelle247 <dorothybelle247@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
